@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rfounds\\source\\repos\\RF Basic App GitHub\\RF Basic App GitHub\\RF Basic App GitHub.csproj": {}
+    "C:\\Users\\r2fou\\Documents\\BahamDevops\\AdvancedAppDev\\RF Basic App GitHub\\RF Basic App GitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rfounds\\source\\repos\\RF Basic App GitHub\\RF Basic App GitHub\\RF Basic App GitHub.csproj": {
+    "C:\\Users\\r2fou\\Documents\\BahamDevops\\AdvancedAppDev\\RF Basic App GitHub\\RF Basic App GitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rfounds\\source\\repos\\RF Basic App GitHub\\RF Basic App GitHub\\RF Basic App GitHub.csproj",
+        "projectUniqueName": "C:\\Users\\r2fou\\Documents\\BahamDevops\\AdvancedAppDev\\RF Basic App GitHub\\RF Basic App GitHub.csproj",
         "projectName": "RF Basic App GitHub",
-        "projectPath": "C:\\Users\\rfounds\\source\\repos\\RF Basic App GitHub\\RF Basic App GitHub\\RF Basic App GitHub.csproj",
-        "packagesPath": "C:\\Users\\rfounds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rfounds\\source\\repos\\RF Basic App GitHub\\RF Basic App GitHub\\obj\\",
+        "projectPath": "C:\\Users\\r2fou\\Documents\\BahamDevops\\AdvancedAppDev\\RF Basic App GitHub\\RF Basic App GitHub.csproj",
+        "packagesPath": "C:\\Users\\r2fou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\r2fou\\Documents\\BahamDevops\\AdvancedAppDev\\RF Basic App GitHub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rfounds\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\r2fou\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
